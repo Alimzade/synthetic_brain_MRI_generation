@@ -2,6 +2,9 @@
 
 This repository advances medical imaging by implementing Denoising Diffusion Probabilistic Models (DDPM) and Deep Convolutional Generative Adversarial Networks (DCGAN) to generate high-fidelity synthetic Brain MRI images. It aims to enhance diagnostics and research, focusing on synthesis of images that closely resemble actual MRI scans.
 
+<img width="624" height="533" alt="project_ddpm" src="https://github.com/user-attachments/assets/e37851a3-5d17-4d4c-9e8a-45b44303b98e" />
+
+
 ### Technologies:
 
 - **DDPM:** Models the distribution of real images and gradually converts noise into structured data through a reverse diffusion process.
